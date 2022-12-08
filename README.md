@@ -21,17 +21,6 @@ This project is developed using javascript, html and CSS.
   <li>Depth First Search</li>
 </ul>
 
-## ScreenShots
-
-<div>
-  <img src="./Screenshot1.png" alt="Sorting" height="400dp">
-</div>
-
----
-
-<div>
-  <img src="./Screenshot2.png" alt="Sorting" height="400dp">
-</div>
 
 
 ## Future Changes
