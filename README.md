@@ -34,7 +34,7 @@ You can view this project by clicking on this [Link](https://sanidhya2101.github
 </div>
 
 
-## Future Chnages
+## Future Changes
 <ul>
   <li>Heap Sort and other Sorting Algorithm</li>
   <li>More Pathfinding Algorithm</li>
