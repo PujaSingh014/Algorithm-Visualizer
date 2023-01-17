@@ -23,13 +23,3 @@ This project is developed using javascript, html and CSS. It can be viewed here 
 
 
 
-## Future Changes
-<ul>
-  <li>Heap Sort and other Sorting Algorithm</li>
-  <li>More Pathfinding Algorithm</li>
-  <li>Tree and Graph Visualiser</li>
-
-</ul>
-
-
-
