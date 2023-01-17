@@ -1,6 +1,6 @@
 # Algorithm Visualizer
 
-This project is developed using javascript, html and CSS.
+This project is developed using javascript, html and CSS. It can be viewed here https://algorithm-visualizer-5d117.web.app/
 
 
 ## Sorting Agorithm
